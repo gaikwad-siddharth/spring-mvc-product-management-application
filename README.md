@@ -43,6 +43,8 @@ src/main/java/in/siddharth/
 └── Application.java
     ServletInitializer.java
 
+---
+
 ## ⚙️ Tech Stack
 Java
 Spring Boot
@@ -51,6 +53,8 @@ Spring Data JPA
 Hibernate
 Thymeleaf / JSP
 Maven
+
+---
 
 ## 🎯 Features
 Add Product
@@ -61,6 +65,8 @@ Form Handling
 MVC-based architecture
 Database Integration
 
+---
+
 ## 🖥️ Application Screens
 Product Form
 Enter Product Name
@@ -70,6 +76,8 @@ Product List
 View all products
 Edit product details
 Delete product records
+
+---
 
 ## ▶️ How to Run
 Clone the repository
